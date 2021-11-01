@@ -8,6 +8,6 @@ sklearn
 praw
 kaggle
 nltk
-re
 speechbrain
 pytumblr
+cv2
