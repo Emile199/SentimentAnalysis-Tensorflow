@@ -1,0 +1,14 @@
+pandas
+matplotlib
+tweepy
+os
+numpy
+tensorflow
+keras
+sklearn
+praw
+kaggle
+nltk
+re
+speechbrain
+pytumblr
