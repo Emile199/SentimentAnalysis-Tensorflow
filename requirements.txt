@@ -1,7 +1,6 @@
 pandas
 matplotlib
 tweepy
-os
 numpy
 tensorflow
 keras
